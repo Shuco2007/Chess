@@ -1,0 +1,13 @@
+﻿  шахматы.cpp
+C:\Users\user\Desktop\шахматы\шахматы.cpp(49,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\шахматы\шахматы.cpp(49,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\шахматы\шахматы.cpp(82,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\шахматы\шахматы.cpp(82,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\шахматы\шахматы.cpp(536,68): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\шахматы\шахматы.cpp(536,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  7 of 576 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  шахматы.vcxproj -> C:\Users\user\Desktop\шахматы\x64\Release\шахматы.exe
